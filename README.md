@@ -21,3 +21,4 @@ I recommend posting issue's here on GitHub, that makes it easier for me to respo
 I also have schoolwork, so it may take some time to respond on your questions/issues. I will update SpeedNet whenever I can.
 
 [Changelog](changelog)
+[Website](speednet-browser.weebly.com)
