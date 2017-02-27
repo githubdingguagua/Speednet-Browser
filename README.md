@@ -15,8 +15,7 @@ I'm working on new functions, like:
 - [ ] Custom Search Engines(I need to have Chrome's URL bar first for this)
 - [ ] Theme's
 
-Have a question, or want to report an issue? Or even want to request something? Visit our website! speednet-browser.weebly.com
-I recommend posting issue's here on GitHub, that makes it easier for me to respond.
+Have a question, or want to report an issue? Or even want to request something? Visit our website: http://adf.ly/1kZmToI recommend posting issue's here on GitHub, that makes it easier for me to respond.
 
 I also have schoolwork, so it may take some time to respond on your questions/issues. I will update SpeedNet whenever I can.
 
